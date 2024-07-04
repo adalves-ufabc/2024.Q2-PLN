@@ -15,3 +15,8 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 03 - Notebook 03.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_03_Notebook_03.ipynb)
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 03 - Notebook 04.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_03_Notebook_04.ipynb)
+
+### `AULA 04 - Normalização de Textos`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 04 - Notebook 05.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_04_Notebook_05.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 04 - Notebook 06.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_04_Notebook_06.ipynb)
