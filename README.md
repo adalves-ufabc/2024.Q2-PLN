@@ -25,3 +25,8 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 05 - Notebook 07.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_05_Notebook_07.ipynb)
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 05 - Notebook 08.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_05_Notebook_08.ipynb)
+
+### `AULA 06 - Representação de Textos`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 06 - Notebook 09.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_06_Notebook_09.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 06 - Notebook 10.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_06_Notebook_10.ipynb)
