@@ -30,3 +30,9 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 06 - Notebook 09.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_06_Notebook_09.ipynb)
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 06 - Notebook 10.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_06_Notebook_10.ipynb)
+
+### `AULA 08 - Introdução à API da OpenAI`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 08 - Notebook 11.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_08_Notebook_11.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 08 - Notebook 12.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_08_Notebook_12.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 08 - Notebook 13.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_08_Notebook_13.ipynb)
