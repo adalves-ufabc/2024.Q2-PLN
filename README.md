@@ -41,3 +41,14 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 09 - Notebook 14.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_09_Notebook_14.ipynb)
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 09 - Notebook 15.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_09_Notebook_15.ipynb)
+
+### `AULA 10 - Word Embeddings`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 10 - Notebook 16.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_10_Notebook_16.ipynb)
+
+### `EXTRA - APIs`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN EXTRA - Notebook 01.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_EXTRA_Notebook_01.ipynb)
+
+
+
