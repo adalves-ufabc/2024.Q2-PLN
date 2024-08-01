@@ -50,5 +50,17 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN EXTRA - Notebook 01.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_EXTRA_Notebook_01.ipynb)
 
+### `AULA 11 - LangChain`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 11 - Notebook 17.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_11_Notebook_17.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 11 - Notebook 18.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_11_Notebook_18.ipynb)
+
+### `AULA 11 - API Cohere`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 11 - Notebook 19.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_11_Notebook_19.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 11 - Notebook 20.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_11_Notebook_20.ipynb)
+
 
 
