@@ -62,5 +62,13 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 11 - Notebook 20.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_11_Notebook_20.ipynb)
 
+### `AULA 12 - API Groq`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 12 - Notebook 21.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_12_Notebook_21.ipynb)
+
+### `AULA 12 - Integração da API do Google com o LangChain`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 12 - Notebook 22.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_12_Notebook_22.ipynb)
+
 
 
