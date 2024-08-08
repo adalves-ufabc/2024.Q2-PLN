@@ -70,9 +70,15 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 12 - Notebook 22.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_12_Notebook_22.ipynb)
 
-### `AULA 13 - LangChain [Engenharia de Prompts]`
+### `AULA 12 - LangChain [Engenharia de Prompts]`
 
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 12 - Notebook 23.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_12_Notebook_23.ipynb)
+
+### `AULA 13 - LangChain [Dados Estruturados e Extração de Informação]`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 13 - Notebook 24.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_13_Notebook_24.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 13 - Notebook 25.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_13_Notebook_25.ipynb)
 
 
 
