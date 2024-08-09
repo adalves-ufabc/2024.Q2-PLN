@@ -78,7 +78,7 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 13 - Notebook 24.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_13_Notebook_24.ipynb)
 
-##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 13 - Notebook 24 - Groq.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_13_Notebook_24 - Groq.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 13 - Notebook 24 - Groq.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_13_Notebook_24_Groq.ipynb)
 
 ### `AULA 13 - LangChain [Extração de Informação]`
 
