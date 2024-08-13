@@ -80,9 +80,27 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 13 - Notebook 24 - Groq.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_13_Notebook_24_Groq.ipynb)
 
-### `AULA 13 - LangChain [Extração de Informação]`
+### `AULA 13 - Extração de Informação`
 
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 13 - Notebook 25.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_13_Notebook_25.ipynb)
+
+### `AULA 14 - Reconhecimento de Entidades Nomeadas`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 14 - Notebook 26.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_14_Notebook_26.ipynb)
+
+### `AULA 14 - Ferramentas (Tools)`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 14 - Notebook 27.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_14_Notebook_27.ipynb)
+
+### `AULA 14 - Agentes`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 14 - Notebook 28.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_14_Notebook_28.ipynb)
+
+### `AULA 14 - Classificação de Textos e Análise de Sentimentos`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 14 - Notebook 29.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_14_Notebook_29.ipynb)
+
+
 
 
 
