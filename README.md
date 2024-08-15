@@ -100,6 +100,24 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 14 - Notebook 29.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_14_Notebook_29.ipynb)
 
+### `AULA 15 - Sumarização de Textos`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 15 - Notebook 30.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_15_Notebook_30.ipynb)
+
+### `AULA 15 - Geração de Dados Sintéticos`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 15 - Notebook 31.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_15_Notebook_31.ipynb)
+
+### `AULA 15 - Sistema de Perguntas e Respostas`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 15 - Notebook 32.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_15_Notebook_32.ipynb)
+
+### `AULA 15 - ## **Sistema de Perguntas e Respostas sobre dados SQL`
+
+##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 15 - Notebook 33.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_15_Notebook_33.ipynb)
+
+
+
 
 
 
