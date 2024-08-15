@@ -112,7 +112,7 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 15 - Notebook 32.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_15_Notebook_32.ipynb)
 
-### `AULA 15 - ## **Sistema de Perguntas e Respostas sobre dados SQL`
+### `AULA 15 - Sistema de Perguntas e Respostas sobre dados SQL`
 
 ##### &nbsp;&nbsp;&nbsp; [2024-Q2 PLN AULA 15 - Notebook 33.ipynb](https://github.com/adalves-ufabc/2024.Q2-PLN/blob/main/aulas/2024_Q2_PLN_AULA_15_Notebook_33.ipynb)
 
